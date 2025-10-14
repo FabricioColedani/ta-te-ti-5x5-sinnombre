@@ -1,6 +1,6 @@
 # 🎮 Ta-Te-Ti 5×5 con IA (Minimax + Alfa-Beta)
 
-Este proyecto implementa un **Ta-Te-Ti** de **5x5** donde gana quien logra **5 en raya**, con una **IA fuerte** basada en *Minimax con poda alfa-beta* y heurística avanzada.
+Este proyecto implementa un **Ta-Te-Ti** de **5x5** donde gana quien logra **4 en raya**, con una **IA fuerte** basada en *Minimax con poda alfa-beta* y heurística avanzada.
 
 ---
 
