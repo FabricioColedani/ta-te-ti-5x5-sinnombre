@@ -1,8 +1,6 @@
 // server-5x5.js — Ta-Te-Ti 5x5 
 const express = require('express');
 const app = express();
-const PORT = 3001;
-app.use(express.json());
 
 // ===============================
 // 🔹 Utilidades de Tablero 5x5
