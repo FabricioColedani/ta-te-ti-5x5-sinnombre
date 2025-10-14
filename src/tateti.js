@@ -193,8 +193,5 @@ app.post('/move', validateBoard, (req, res) => {
 // ===============================
 // 🔹 Inicio del servidor
 // ===============================
-app.listen(PORT, () => {
-  console.log(`Servidor Ta-Te-Ti 5x5 con IA fuerte en http://localhost:${PORT}`);
-});
-
+module.exports = app;
 module.exports = { checkWinner, detectPlayer, printBoard, bestMove };
